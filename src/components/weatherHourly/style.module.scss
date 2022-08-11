@@ -1,0 +1,13 @@
+@import "../../style/variables.scss";
+
+h3 {
+  margin-left: 5px;
+}
+
+.list {
+  // margin: 10px;
+  padding: 5px;
+  border-bottom: 2px solid $primary;
+  display: grid;
+  grid-template-columns: 10% auto 50%;
+}

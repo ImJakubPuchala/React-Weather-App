@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.main {
+  @media only screen and (max-width: 500px) {
+    width: 100vw;
+  }
+  @media only screen and (min-width: 500px) {
+    width: 60%;
+  }
+}
+
+.second {
+  @media only screen and (max-width: 500px) {
+    width: 100%;
+  }
+  @media only screen and (min-width: 500px) {
+    width: 30%;
+  }
+}

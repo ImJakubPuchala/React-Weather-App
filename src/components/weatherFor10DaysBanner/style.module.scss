@@ -1,0 +1,12 @@
+@import "../../style/variables.scss";
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#day {
+  padding: 10px;
+  text-align: center;
+}
+

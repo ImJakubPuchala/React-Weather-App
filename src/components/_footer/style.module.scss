@@ -1,0 +1,13 @@
+@import "../../style/variables.scss";
+
+.footer {
+  margin-top: auto;
+  padding: 10px;
+
+  color: white;
+  text-align: center;
+  background-color: $sidebar;
+  border-bottom: 1px solid $primary;
+
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 30px 0px;
+}

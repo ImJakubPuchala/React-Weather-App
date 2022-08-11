@@ -1,0 +1,30 @@
+@import "../../style/variables.scss";
+
+.details {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.city {
+  padding-left: 10px;
+  padding-right: 10px;
+
+  border-bottom: 1px solid $primary;
+}
+
+.temperature {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.information {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+  font-weight: 500;
+}
