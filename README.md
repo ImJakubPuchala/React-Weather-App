@@ -1,6 +1,6 @@
 # React Weather App
 
-This is a basic app with no API integration.
+The React Weather App is a basic application built with React that provides weather information without any API integration. The app focuses on displaying static weather data for different locations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
